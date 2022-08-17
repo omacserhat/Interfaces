@@ -1,1 +1,1 @@
-# Interfaces hakkında bilgiler ve çalışmalar eklenecek.
+# Interfaces hakkında bilgiler ve çalışmalar
